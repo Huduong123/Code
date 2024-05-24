@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\UocSoBoiSo\bin\Debug\UocSoBoiSo.exe.config
+C:\Users\Admin\source\repos\UocSoBoiSo\bin\Debug\UocSoBoiSo.exe
+C:\Users\Admin\source\repos\UocSoBoiSo\bin\Debug\UocSoBoiSo.pdb
+C:\Users\Admin\source\repos\UocSoBoiSo\obj\Debug\UocSoBoiSo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\UocSoBoiSo\obj\Debug\UocSoBoiSo.Form1.resources
+C:\Users\Admin\source\repos\UocSoBoiSo\obj\Debug\UocSoBoiSo.Properties.Resources.resources
+C:\Users\Admin\source\repos\UocSoBoiSo\obj\Debug\UocSoBoiSo.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\UocSoBoiSo\obj\Debug\UocSoBoiSo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\UocSoBoiSo\obj\Debug\UocSoBoiSo.exe
+C:\Users\Admin\source\repos\UocSoBoiSo\obj\Debug\UocSoBoiSo.pdb
